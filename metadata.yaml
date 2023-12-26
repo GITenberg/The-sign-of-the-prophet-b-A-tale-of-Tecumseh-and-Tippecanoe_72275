@@ -1,0 +1,30 @@
+_repo: The-sign-of-the-prophet-b-A-tale-of-Tecumseh-and-Tippecanoe_72275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Naylor, J. B. (James Ball)
+    alias: Naylor, James Ball
+    birthdate: 1860
+    deathdate: 1945
+    gutenberg_agent_id: '51430'
+    url: http://www.gutenberg.org/2009/agents/51430
+description: ''
+gutenberg_issued: '2023-12-01'
+identifiers:
+  gutenberg: '72275'
+language: en
+pgterms:marc904: https://archive.org/details/signofprophettal0000nayl/mode/2up
+pgterms:marc905: 20200425172945naylor
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Carlos Colon, Trent University Library and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Saalfield Publishing Company, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The sign of the prophet : $b A tale of Tecumseh and Tippecanoe'
+url: http://www.gutenberg.org/ebooks/72275
