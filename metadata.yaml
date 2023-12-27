@@ -1,5 +1,8 @@
 _repo: The-sign-of-the-prophet-b-A-tale-of-Tecumseh-and-Tippecanoe_72275
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72275-h/images/cover.jpg
 creator:
   author:
     agent_name: Naylor, J. B. (James Ball)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51430'
     url: http://www.gutenberg.org/2009/agents/51430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72275#The-sign-of-the-prophet-b-A-tale-of-Tecumseh-and-Tippecanoe
 gutenberg_issued: '2023-12-01'
 identifiers:
   gutenberg: '72275'
